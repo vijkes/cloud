@@ -1,0 +1,14 @@
+Hot: frequently accessed
+cold: infrequently accessed
+
+hot+cold is available in gp2
+cold in gp1
+
+container
+file share
+----------------blockstoarage/unstructured data,pdf,mp3,video
+
+
+tables
+queues
+--------------------structured data/ mssql, oracle, (db servrs data)
